@@ -7,7 +7,8 @@ function getDogs() {
   var myData = [
     { name: "Fido", breed: "Border Terrier", childFriendly: true },
     { name: "Butch", breed: "Poodle", childFriendly: true },
-    { name: "Patch", breed: "Poodle", childFriendly: false }
+    { name: "Patch", breed: "Poodle", childFriendly: false },
+    { name: "Spot", breed: "Cat", childFriendly: false }
   ];
   return myData;
 }
